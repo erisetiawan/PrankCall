@@ -8,7 +8,7 @@ subprocess.call("clear", shell=True)
 banner = """
 ╔╗╴╴╴╔══════╗ \033[1;34mRPL 1\033[1;36m HACKING\033[0m
 ║║╴╴╴║╴╔════╝
-║╚═══╝╴╚════╗ Pencipta \033[1;32mEri Setiawan\033[0m
+║╚═══╝╴╚════╗ Modify \033[1;32mEri Setiawan\033[0m
 ╚════╗╴╔═══╗║ 
 ╔════╝╴║╴╴╴║║ MIKAMI SQUAD
 ╚══════╝╴╴╴╚╝
